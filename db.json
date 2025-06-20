@@ -76,7 +76,7 @@
 
   "imagesSlideHome": [
     {
-      "image": "http://localhost:3000/images/White-Sneakers2.png",
+      "image": "https://digital-store-server-production.up.railway.app/images/White-Sneakers2.png",
       "alt": "Nike Air",
       "title": "Queima de estoque Nike 🔥",
       "subtitle": "Melhores ofertas personalizadas",
