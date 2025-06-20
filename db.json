@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Air Jordan 1 High",
-      "image": "http://localhost:3000/images/Layer1.png",
+      "image": "https://digital-store-server-production.up.railway.app/images/Layer1.png",
       "price": 3500,
       "priceDiscount": 1500,
       "category": "Tênis"
@@ -11,7 +11,7 @@
     {
       "id": 2,
       "name": "Air Jordan 1 High",
-      "image": "http://localhost:3000/images/Layer1.png",
+      "image": "https://digital-store-server-production.up.railway.app/images/Layer1.png",
       "price": 5000,
       "priceDiscount": 1800,
       "category": "Tênis"
@@ -19,7 +19,7 @@
     {
       "id": 3,
       "name": "Tênis Levi's de Couro",
-      "image": "http://localhost:3000/images/Layer1.png",
+      "image": "https://digital-store-server-production.up.railway.app/images/Layer1.png",
       "price": 550,
       "priceDiscount": 250,
       "category": "Tênis"
@@ -27,7 +27,7 @@
     {
       "id": 4,
       "name": "Tênis Retro Runner",
-      "image": "http://localhost:3000/images/Layer1.png",
+      "image": "https://digital-store-server-production.up.railway.app/images/Layer1.png",
       "price": 800,
       "priceDiscount": 350,
       "category": "Tênis"
@@ -35,7 +35,7 @@
     {
       "id": 5,
       "name": "Nike SuperRep Go",
-      "image": "http://localhost:3000/images/Layer1.png",
+      "image": "https://digital-store-server-production.up.railway.app/images/Layer1.png",
       "price": 750,
       "priceDiscount": 450,
       "category": "Tênis"
@@ -43,7 +43,7 @@
     {
       "id": 6,
       "name": "Tênis Levi's de Couro",
-      "image": "http://localhost:3000/images/Layer1.png",
+      "image": "https://digital-store-server-production.up.railway.app/images/Layer1.png",
       "price": 550,
       "priceDiscount": 250,
       "category": "Tênis"
@@ -51,7 +51,7 @@
     {
       "id": 7,
       "name": "Tênis Retro Runner",
-      "image": "http://localhost:3000/images/Layer1.png",
+      "image": "https://digital-store-server-production.up.railway.app/images/Layer1.png",
       "price": 800,
       "priceDiscount": 350,
       "category": "Tênis"
@@ -59,7 +59,7 @@
     {
       "id": 8,
       "name": "Nike SuperRep Go",
-      "image": "http://localhost:3000/images/Layer1.png",
+      "image": "https://digital-store-server-production.up.railway.app/images/Layer1.png",
       "price": 750,
       "priceDiscount": 450,
       "category": "Tênis"
@@ -67,7 +67,7 @@
     {
       "id": 9,
       "name": "Tênis Levi's de Couro",
-      "image": "http://localhost:3000/images/Layer1.png",
+      "image": "https://digital-store-server-production.up.railway.app/images/Layer1.png",
       "price": 550,
       "priceDiscount": 250,
       "category": "Tênis"
@@ -84,62 +84,62 @@
       "buttonLabel": "Ver Ofertas"
     },
     {
-      "image": "http://localhost:3000/images/home-slide-1.jpeg"
+      "image": "https://digital-store-server-production.up.railway.app/images/home-slide-1.jpeg"
     },
     {
-      "image": "http://localhost:3000/images/home-slide-2.jpeg"
+      "image": "https://digital-store-server-production.up.railway.app/images/home-slide-2.jpeg"
     },
     {
-      "image": "http://localhost:3000/images/home-slide-3.jpeg"
+      "image": "https://digital-store-server-production.up.railway.app/images/home-slide-3.jpeg"
     },
     {
-      "image": "http://localhost:3000/images/home-slide-4.jpeg"
+      "image": "https://digital-store-server-production.up.railway.app/images/home-slide-4.jpeg"
     },
     {
-      "image": "http://localhost:3000/images/home-slide-5.jpeg"
+      "image": "https://digital-store-server-production.up.railway.app/images/home-slide-5.jpeg"
     },
     {
-      "image": "http://localhost:3000/images/home-slide-6.jpeg"
+      "image": "https://digital-store-server-production.up.railway.app/images/home-slide-6.jpeg"
     },
     {
-      "image": "http://localhost:3000/images/home-slide-7.jpeg"
+      "image": "https://digital-store-server-production.up.railway.app/images/home-slide-7.jpeg"
     },
     {
-      "image": "http://localhost:3000/images/home-slide-8.jpeg"
+      "image": "https://digital-store-server-production.up.railway.app/images/home-slide-8.jpeg"
     }
   ],
 
   "imageCollection": [
     {
-      "src": "http://localhost:3000/images/collection-1.png"
+      "src": "https://digital-store-server-production.up.railway.app/images/collection-1.png"
     },
     {
-      "src": "http://localhost:3000/images/collection-2.png"
+      "src": "https://digital-store-server-production.up.railway.app/images/collection-2.png"
     },
     {
-      "src": "http://localhost:3000/images/collection-3.png"
+      "src": "https://digital-store-server-production.up.railway.app/images/collection-3.png"
     }
   ],
 
   "imageCollection2": [
     {
-      "src": "http://localhost:3000/images/camisetas.png",
+      "src": "https://digital-store-server-production.up.railway.app/images/camisetas.png",
       "text": "Camisetas"
     },
     {
-      "src": "http://localhost:3000/images/calcas.png",
+      "src": "https://digital-store-server-production.up.railway.app/images/calcas.png",
       "text": "Calças"
     },
     {
-      "src": "http://localhost:3000/images/bone2.png",
+      "src": "https://digital-store-server-production.up.railway.app/images/bone2.png",
       "text": "Bonés"
     },
     {
-      "src": "http://localhost:3000/images/headphones.png",
+      "src": "https://digital-store-server-production.up.railway.app/images/headphones.png",
       "text": "Headphones"
     },
     {
-      "src": "http://localhost:3000/images/tenis.png",
+      "src": "https://digital-store-server-production.up.railway.app/images/tenis.png",
       "text": "Tênis"
     }
   ]
