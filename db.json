@@ -142,5 +142,33 @@
       "src": "https://digital-store-server-production.up.railway.app/images/tenis.png",
       "text": "Tênis"
     }
+  ],
+
+   "imagesWithThumb": [
+    {
+      "image": "https://digital-store-server-production.up.railway.app/images/tenis-galeria.png",
+      "imageThumb": "https://digital-store-server-production.up.railway.app/images/tenis-thumb.png",
+      "color": "#E2E3FF"
+    },
+    {
+      "image": "https://digital-store-server-production.up.railway.app/images/tenis-galeria.png",
+      "imageThumb": "https://digital-store-server-production.up.railway.app/images/tenis-thumb.png",
+      "color": "#FFE8BC"
+    },
+    {
+      "image": "https://digital-store-server-production.up.railway.app/images/tenis-galeria.png",
+      "imageThumb": "https://digital-store-server-production.up.railway.app/images/tenis-thumb.png",
+      "color": "#FFC0BC"
+    },
+    {
+      "image": "https://digital-store-server-production.up.railway.app/images/tenis-galeria.png",
+      "imageThumb": "https://digital-store-server-production.up.railway.app/images/tenis-thumb.png",
+      "color": "#DEC699"
+    },
+    {
+      "image": "https://digital-store-server-production.up.railway.app/images/tenis-galeria.png",
+      "imageThumb": "https://digital-store-server-production.up.railway.app/images/tenis-thumb.png",
+      "color": "#E8DFCF"
+    }
   ]
 }
