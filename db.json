@@ -1,5 +1,79 @@
 {
   "allProducts": [
+    {
+      "id": 1,
+      "name": "Air Jordan 1 High",
+      "image": "https://digital-store-server-production.up.railway.app/images/Layer1.png",
+      "price": 3500,
+      "priceDiscount": 1500,
+      "category": "Tênis"
+    },
+    {
+      "id": 2,
+      "name": "Air Jordan 1 High",
+      "image": "https://digital-store-server-production.up.railway.app/images/Layer1.png",
+      "price": 5000,
+      "priceDiscount": 1800,
+      "category": "Tênis"
+    },
+    {
+      "id": 3,
+      "name": "Tênis Levi's de Couro",
+      "image": "https://digital-store-server-production.up.railway.app/images/Layer1.png",
+      "price": 550,
+      "priceDiscount": 250,
+      "category": "Tênis"
+    },
+    {
+      "id": 4,
+      "name": "Tênis Retro Runner",
+      "image": "https://digital-store-server-production.up.railway.app/images/Layer1.png",
+      "price": 800,
+      "priceDiscount": 350,
+      "category": "Tênis"
+    },
+    {
+      "id": 5,
+      "name": "Nike SuperRep Go",
+      "image": "https://digital-store-server-production.up.railway.app/images/Layer1.png",
+      "price": 750,
+      "priceDiscount": 450,
+      "category": "Tênis"
+    },
+    {
+      "id": 6,
+      "name": "Tênis Levi's de Couro",
+      "image": "https://digital-store-server-production.up.railway.app/images/Layer1.png",
+      "price": 550,
+      "priceDiscount": 250,
+      "category": "Tênis"
+    },
+    {
+      "id": 7,
+      "name": "Tênis Retro Runner",
+      "image": "https://digital-store-server-production.up.railway.app/images/Layer1.png",
+      "price": 800,
+      "priceDiscount": 350,
+      "category": "Tênis"
+    },
+    {
+      "id": 8,
+      "name": "Nike SuperRep Go",
+      "image": "https://digital-store-server-production.up.railway.app/images/Layer1.png",
+      "price": 750,
+      "priceDiscount": 450,
+      "category": "Tênis"
+    },
+    {
+      "id": 9,
+      "name": "Tênis Levi's de Couro",
+      "image": "https://digital-store-server-production.up.railway.app/images/Layer1.png",
+      "price": 550,
+      "priceDiscount": 250,
+      "category": "Tênis"
+    }
+  ],
+  "allProductsDetails": [
   {
     "id": 1,
     "name": "Tênis Air Jordan 1 High Original Masculino",
@@ -96,7 +170,7 @@
     "priceDiscount": 450,
     "category": "Tênis"
   }
-],
+  ],
 
   "imagesSlideHome": [
     {
