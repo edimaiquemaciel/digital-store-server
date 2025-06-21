@@ -170,5 +170,11 @@
       "imageThumb": "https://digital-store-server-production.up.railway.app/images/tenis-thumb.png",
       "color": "#E8DFCF"
     }
+  ],
+
+  "imageSpecial": [
+    {
+      "image": "https://digital-store-server-production.up.railway.app/images/Laye.png"
+    }
   ]
 }
