@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Air Jordan 1 High",
-      "image": "https://digital-store-server-production.up.railway.app/images/Layer1.png",
+      "image": "https://digital-store-server.fly.dev/images/Layer1.png",
       "price": 3500,
       "priceDiscount": 1500,
       "category": "Tênis"
@@ -11,7 +11,7 @@
     {
       "id": 2,
       "name": "Air Jordan 1 High",
-      "image": "https://digital-store-server-production.up.railway.app/images/Layer1.png",
+      "image": "https://digital-store-server.fly.dev/images/Layer1.png",
       "price": 5000,
       "priceDiscount": 1800,
       "category": "Tênis"
@@ -19,7 +19,7 @@
     {
       "id": 3,
       "name": "Tênis Levi's de Couro",
-      "image": "https://digital-store-server-production.up.railway.app/images/Layer1.png",
+      "image": "https://digital-store-server.fly.dev/images/Layer1.png",
       "price": 550,
       "priceDiscount": 250,
       "category": "Tênis"
@@ -27,7 +27,7 @@
     {
       "id": 4,
       "name": "Tênis Retro Runner",
-      "image": "https://digital-store-server-production.up.railway.app/images/Layer1.png",
+      "image": "https://digital-store-server.fly.dev/images/Layer1.png",
       "price": 800,
       "priceDiscount": 350,
       "category": "Tênis"
@@ -35,7 +35,7 @@
     {
       "id": 5,
       "name": "Nike SuperRep Go",
-      "image": "https://digital-store-server-production.up.railway.app/images/Layer1.png",
+      "image": "https://digital-store-server.fly.dev/images/Layer1.png",
       "price": 750,
       "priceDiscount": 450,
       "category": "Tênis"
@@ -43,7 +43,7 @@
     {
       "id": 6,
       "name": "Tênis Levi's de Couro",
-      "image": "https://digital-store-server-production.up.railway.app/images/Layer1.png",
+      "image": "https://digital-store-server.fly.dev/images/Layer1.png",
       "price": 550,
       "priceDiscount": 250,
       "category": "Tênis"
@@ -51,7 +51,7 @@
     {
       "id": 7,
       "name": "Tênis Retro Runner",
-      "image": "https://digital-store-server-production.up.railway.app/images/Layer1.png",
+      "image": "https://digital-store-server.fly.dev/images/Layer1.png",
       "price": 800,
       "priceDiscount": 350,
       "category": "Tênis"
@@ -59,7 +59,7 @@
     {
       "id": 8,
       "name": "Nike SuperRep Go",
-      "image": "https://digital-store-server-production.up.railway.app/images/Layer1.png",
+      "image": "https://digital-store-server.fly.dev/images/Layer1.png",
       "price": 750,
       "priceDiscount": 450,
       "category": "Tênis"
@@ -67,7 +67,7 @@
     {
       "id": 9,
       "name": "Tênis Levi's de Couro",
-      "image": "https://digital-store-server-production.up.railway.app/images/Layer1.png",
+      "image": "https://digital-store-server.fly.dev/images/Layer1.png",
       "price": 550,
       "priceDiscount": 250,
       "category": "Tênis"
@@ -81,7 +81,7 @@
     "stars": 4.8,
     "rating": 125,
     "description": "Design retrô com tecnologia moderna, ideal para quem busca conforto, estilo urbano e performance. Um clássico que combina autenticidade com qualidade premium.",
-    "image": "https://digital-store-server-production.up.railway.app/images/Layer1.png",
+    "image": "https://digital-store-server.fly.dev/images/Layer1.png",
     "price": 3500,
     "priceDiscount": 1500,
     "category": "Tênis"
@@ -93,7 +93,7 @@
     "stars": 4.9,
     "rating": 98,
     "description": "O modelo une tradição e inovação em um visual marcante. Perfeito para uso diário ou esportivo, com conforto extremo e materiais de alta qualidade.",
-    "image": "https://digital-store-server-production.up.railway.app/images/Layer1.png",
+    "image": "https://digital-store-server.fly.dev/images/Layer1.png",
     "price": 5000,
     "priceDiscount": 1800,
     "category": "Tênis"
@@ -105,7 +105,7 @@
     "stars": 4.5,
     "rating": 80,
     "description": "Couro legítimo e acabamento refinado em um tênis versátil que combina com diversos estilos. Ideal para quem busca elegância e conforto no dia a dia.",
-    "image": "https://digital-store-server-production.up.railway.app/images/Layer1.png",
+    "image": "https://digital-store-server.fly.dev/images/Layer1.png",
     "price": 550,
     "priceDiscount": 250,
     "category": "Tênis"
@@ -117,7 +117,7 @@
     "stars": 4.2,
     "rating": 67,
     "description": "Inspirado nos clássicos, este modelo oferece conforto e um visual vintage atualizado. Seu solado aderente e design anatômico garantem estabilidade.",
-    "image": "https://digital-store-server-production.up.railway.app/images/Layer1.png",
+    "image": "https://digital-store-server.fly.dev/images/Layer1.png",
     "price": 800,
     "priceDiscount": 350,
     "category": "Tênis"
@@ -129,7 +129,7 @@
     "stars": 4.6,
     "rating": 150,
     "description": "Ideal para treinos de alta intensidade, com amortecimento eficiente e suporte lateral. Leve, respirável e com design moderno para performance e estilo.",
-    "image": "https://digital-store-server-production.up.railway.app/images/Layer1.png",
+    "image": "https://digital-store-server.fly.dev/images/Layer1.png",
     "price": 750,
     "priceDiscount": 450,
     "category": "Tênis"
@@ -141,7 +141,7 @@
     "stars": 4.4,
     "rating": 45,
     "description": "Sofisticado e resistente, o tênis em couro combina perfeitamente com looks casuais e formais. Confortável e durável para uso prolongado com elegância.",
-    "image": "https://digital-store-server-production.up.railway.app/images/Layer1.png",
+    "image": "https://digital-store-server.fly.dev/images/Layer1.png",
     "price": 550,
     "priceDiscount": 250,
     "category": "Tênis"
@@ -153,7 +153,7 @@
     "stars": 4.1,
     "rating": 38,
     "description": "Modelo retrô com toque contemporâneo. Seu design atemporal e conforto prolongado fazem deste tênis uma excelente escolha para todos os momentos.",
-    "image": "https://digital-store-server-production.up.railway.app/images/Layer1.png",
+    "image": "https://digital-store-server.fly.dev/images/Layer1.png",
     "price": 800,
     "priceDiscount": 350,
     "category": "Tênis"
@@ -165,7 +165,7 @@
     "stars": 4.7,
     "rating": 190,
     "description": "Com ajuste firme e materiais respiráveis, é a escolha ideal para quem treina pesado sem abrir mão de conforto e estilo, tanto na academia quanto fora dela.",
-    "image": "https://digital-store-server-production.up.railway.app/images/Layer1.png",
+    "image": "https://digital-store-server.fly.dev/images/Layer1.png",
     "price": 750,
     "priceDiscount": 450,
     "category": "Tênis"
@@ -174,7 +174,7 @@
 
   "imagesSlideHome": [
     {
-      "image": "https://digital-store-server-production.up.railway.app/images/White-Sneakers2.png",
+      "image": "https://digital-store-server.fly.dev/images/White-Sneakers2.png",
       "alt": "Nike Air",
       "title": "Queima de estoque Nike 🔥",
       "subtitle": "Melhores ofertas personalizadas",
@@ -182,97 +182,97 @@
       "buttonLabel": "Ver Ofertas"
     },
     {
-      "image": "https://digital-store-server-production.up.railway.app/images/home-slide-1.jpeg"
+      "image": "https://digital-store-server.fly.dev/images/home-slide-1.jpeg"
     },
     {
-      "image": "https://digital-store-server-production.up.railway.app/images/home-slide-2.jpeg"
+      "image": "https://digital-store-server.fly.dev/images/home-slide-2.jpeg"
     },
     {
-      "image": "https://digital-store-server-production.up.railway.app/images/home-slide-3.jpeg"
+      "image": "https://digital-store-server.fly.dev/images/home-slide-3.jpeg"
     },
     {
-      "image": "https://digital-store-server-production.up.railway.app/images/home-slide-4.jpeg"
+      "image": "https://digital-store-server.fly.dev/images/home-slide-4.jpeg"
     },
     {
-      "image": "https://digital-store-server-production.up.railway.app/images/home-slide-5.jpeg"
+      "image": "https://digital-store-server.fly.dev/images/home-slide-5.jpeg"
     },
     {
-      "image": "https://digital-store-server-production.up.railway.app/images/home-slide-6.jpeg"
+      "image": "https://digital-store-server.fly.dev/images/home-slide-6.jpeg"
     },
     {
-      "image": "https://digital-store-server-production.up.railway.app/images/home-slide-7.jpeg"
+      "image": "https://digital-store-server.fly.dev/images/home-slide-7.jpeg"
     },
     {
-      "image": "https://digital-store-server-production.up.railway.app/images/home-slide-8.jpeg"
+      "image": "https://digital-store-server.fly.dev/images/home-slide-8.jpeg"
     }
   ],
 
   "imageCollection": [
     {
-      "src": "https://digital-store-server-production.up.railway.app/images/collection-1.png"
+      "src": "https://digital-store-server.fly.dev/images/collection-1.png"
     },
     {
-      "src": "https://digital-store-server-production.up.railway.app/images/collection-2.png"
+      "src": "https://digital-store-server.fly.dev/images/collection-2.png"
     },
     {
-      "src": "https://digital-store-server-production.up.railway.app/images/collection-3.png"
+      "src": "https://digital-store-server.fly.dev/images/collection-3.png"
     }
   ],
 
   "imageCollection2": [
     {
-      "src": "https://digital-store-server-production.up.railway.app/images/camisetas.png",
+      "src": "https://digital-store-server.fly.dev/images/camisetas.png",
       "text": "Camisetas"
     },
     {
-      "src": "https://digital-store-server-production.up.railway.app/images/calcas.png",
+      "src": "https://digital-store-server.fly.dev/images/calcas.png",
       "text": "Calças"
     },
     {
-      "src": "https://digital-store-server-production.up.railway.app/images/bone2.png",
+      "src": "https://digital-store-server.fly.dev/images/bone2.png",
       "text": "Bonés"
     },
     {
-      "src": "https://digital-store-server-production.up.railway.app/images/headphones.png",
+      "src": "https://digital-store-server.fly.dev/images/headphones.png",
       "text": "Headphones"
     },
     {
-      "src": "https://digital-store-server-production.up.railway.app/images/tenis.png",
+      "src": "https://digital-store-server.fly.dev/images/tenis.png",
       "text": "Tênis"
     }
   ],
 
    "imagesWithThumb": [
     {
-      "image": "https://digital-store-server-production.up.railway.app/images/tenis-galeria.png",
-      "imageThumb": "https://digital-store-server-production.up.railway.app/images/tenis-thumb.png",
+      "image": "https://digital-store-server.fly.dev/images/tenis-galeria.png",
+      "imageThumb": "https://digital-store-server.fly.dev/images/tenis-thumb.png",
       "color": "#E2E3FF"
     },
     {
-      "image": "https://digital-store-server-production.up.railway.app/images/tenis-galeria.png",
-      "imageThumb": "https://digital-store-server-production.up.railway.app/images/tenis-thumb.png",
+      "image": "https://digital-store-server.fly.dev/images/tenis-galeria.png",
+      "imageThumb": "https://digital-store-server.fly.dev/images/tenis-thumb.png",
       "color": "#FFE8BC"
     },
     {
-      "image": "https://digital-store-server-production.up.railway.app/images/tenis-galeria.png",
-      "imageThumb": "https://digital-store-server-production.up.railway.app/images/tenis-thumb.png",
+      "image": "https://digital-store-server.fly.dev/images/tenis-galeria.png",
+      "imageThumb": "https://digital-store-server.fly.dev/images/tenis-thumb.png",
       "color": "#FFC0BC"
     },
     {
-      "image": "https://digital-store-server-production.up.railway.app/images/tenis-galeria.png",
-      "imageThumb": "https://digital-store-server-production.up.railway.app/images/tenis-thumb.png",
+      "image": "https://digital-store-server.fly.dev/images/tenis-galeria.png",
+      "imageThumb": "https://digital-store-server.fly.dev/images/tenis-thumb.png",
       "color": "#DEC699"
     },
     {
-      "image": "https://digital-store-server-production.up.railway.app/images/tenis-galeria.png",
-      "imageThumb": "https://digital-store-server-production.up.railway.app/images/tenis-thumb.png",
+      "image": "https://digital-store-server.fly.dev/images/tenis-galeria.png",
+      "imageThumb": "https://digital-store-server.fly.dev/images/tenis-thumb.png",
       "color": "#E8DFCF"
     }
   ],
 
   "imageSpecial": [
     {
-      "image": "https://digital-store-server-production.up.railway.app/images/Laye.png"
+      "image": "https://digital-store-server.fly.dev/images/Laye.png"
     }
   ]
 }
